@@ -27,6 +27,35 @@ urlcolor: blue
 
 <!-- Write your Markdown below this line -->
 
+# Maybe, Title
 
+## Header 2 Title
 
+### Header 3 Title
 
+*italics* **bold** ***bold italics***
+
+-   This is bullet list
+    -   maybe, sublist item?
+
+without blank line no division
+
+with
+
+blank line
+
+divided
+
+math equation: $c = 2 /pi r$
+
+Another math equation $25 * 25 = 7225$
+
+```{r}
+25 * 25
+```
+
+And, table formatting
+
+| Column 1     |      Column 2 |
+|--------------|--------------:|
+| left aligned | right aligned |
